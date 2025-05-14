@@ -1,0 +1,833 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{317873FC-4712-4400-A147-7932FA859262}|DAL\\DAL.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317873FC-4712-4400-A147-7932FA859262}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317873FC-4712-4400-A147-7932FA859262}|DAL\\DAL.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\dal\\orderitemsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317873FC-4712-4400-A147-7932FA859262}|DAL\\DAL.csproj|solutionrelative:dal\\orderitemsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|d:\\ltcsdl\\msistore\\laptopaccessoriesretailmanagementsystem\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E467E1D2-F38A-487B-BB94-FFE8C31B6515}|Solution Items{E467E1D2-F38A-487B-BB94-FFE8C31B6515}|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\OrderItems.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E467E1D2-F38A-487B-BB94-FFE8C31B6515}|Solution Items{E467E1D2-F38A-487B-BB94-FFE8C31B6515}|solutionrelative:OrderItems.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E467E1D2-F38A-487B-BB94-FFE8C31B6515}|Solution Items{E467E1D2-F38A-487B-BB94-FFE8C31B6515}|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\OrderScript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E467E1D2-F38A-487B-BB94-FFE8C31B6515}|Solution Items{E467E1D2-F38A-487B-BB94-FFE8C31B6515}|solutionrelative:OrderScript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E467E1D2-F38A-487B-BB94-FFE8C31B6515}|Solution Items{E467E1D2-F38A-487B-BB94-FFE8C31B6515}|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\ProductScript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E467E1D2-F38A-487B-BB94-FFE8C31B6515}|Solution Items{E467E1D2-F38A-487B-BB94-FFE8C31B6515}|solutionrelative:ProductScript.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\adminproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\adminproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317873FC-4712-4400-A147-7932FA859262}|DAL\\DAL.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\dal\\feedbackdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317873FC-4712-4400-A147-7932FA859262}|DAL\\DAL.csproj|solutionrelative:dal\\feedbackdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\addfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\addfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\addfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\addfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\addfeedback.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\addfeedback.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EDFC6F-BE6A-43A8-87F5-F5B8DE52CB9E}|BLL\\BLL.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\bll\\feedbackbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EDFC6F-BE6A-43A8-87F5-F5B8DE52CB9E}|BLL\\BLL.csproj|solutionrelative:bll\\feedbackbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB769CE9-8D5E-4E32-93F8-58743524FCCA}|DTO\\DTO.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\dto\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB769CE9-8D5E-4E32-93F8-58743524FCCA}|DTO\\DTO.csproj|solutionrelative:dto\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\adminaddorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\adminaddorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\adminproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\adminproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB769CE9-8D5E-4E32-93F8-58743524FCCA}|DTO\\DTO.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\dto\\bestsellingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB769CE9-8D5E-4E32-93F8-58743524FCCA}|DTO\\DTO.csproj|solutionrelative:dto\\bestsellingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB769CE9-8D5E-4E32-93F8-58743524FCCA}|DTO\\DTO.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\dto\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB769CE9-8D5E-4E32-93F8-58743524FCCA}|DTO\\DTO.csproj|solutionrelative:dto\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EDFC6F-BE6A-43A8-87F5-F5B8DE52CB9E}|BLL\\BLL.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\bll\\orderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EDFC6F-BE6A-43A8-87F5-F5B8DE52CB9E}|BLL\\BLL.csproj|solutionrelative:bll\\orderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EDFC6F-BE6A-43A8-87F5-F5B8DE52CB9E}|BLL\\BLL.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\bll\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EDFC6F-BE6A-43A8-87F5-F5B8DE52CB9E}|BLL\\BLL.csproj|solutionrelative:bll\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317873FC-4712-4400-A147-7932FA859262}|DAL\\DAL.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\dal\\productdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317873FC-4712-4400-A147-7932FA859262}|DAL\\DAL.csproj|solutionrelative:dal\\productdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317873FC-4712-4400-A147-7932FA859262}|DAL\\DAL.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\dal\\orderdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317873FC-4712-4400-A147-7932FA859262}|DAL\\DAL.csproj|solutionrelative:dal\\orderdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB769CE9-8D5E-4E32-93F8-58743524FCCA}|DTO\\DTO.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB769CE9-8D5E-4E32-93F8-58743524FCCA}|DTO\\DTO.csproj|solutionrelative:dto\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EDFC6F-BE6A-43A8-87F5-F5B8DE52CB9E}|BLL\\BLL.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\bll\\orderitemsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EDFC6F-BE6A-43A8-87F5-F5B8DE52CB9E}|BLL\\BLL.csproj|solutionrelative:bll\\orderitemsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB769CE9-8D5E-4E32-93F8-58743524FCCA}|DTO\\DTO.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\dto\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB769CE9-8D5E-4E32-93F8-58743524FCCA}|DTO\\DTO.csproj|solutionrelative:dto\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317873FC-4712-4400-A147-7932FA859262}|DAL\\DAL.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\dal\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317873FC-4712-4400-A147-7932FA859262}|DAL\\DAL.csproj|solutionrelative:dal\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EDFC6F-BE6A-43A8-87F5-F5B8DE52CB9E}|BLL\\BLL.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\bll\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EDFC6F-BE6A-43A8-87F5-F5B8DE52CB9E}|BLL\\BLL.csproj|solutionrelative:bll\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EDFC6F-BE6A-43A8-87F5-F5B8DE52CB9E}|BLL\\BLL.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\bll\\categorybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EDFC6F-BE6A-43A8-87F5-F5B8DE52CB9E}|BLL\\BLL.csproj|solutionrelative:bll\\categorybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317873FC-4712-4400-A147-7932FA859262}|DAL\\DAL.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\dal\\logindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317873FC-4712-4400-A147-7932FA859262}|DAL\\DAL.csproj|solutionrelative:dal\\logindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB769CE9-8D5E-4E32-93F8-58743524FCCA}|DTO\\DTO.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\dto\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB769CE9-8D5E-4E32-93F8-58743524FCCA}|DTO\\DTO.csproj|solutionrelative:dto\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB769CE9-8D5E-4E32-93F8-58743524FCCA}|DTO\\DTO.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\dto\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB769CE9-8D5E-4E32-93F8-58743524FCCA}|DTO\\DTO.csproj|solutionrelative:dto\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EDFC6F-BE6A-43A8-87F5-F5B8DE52CB9E}|BLL\\BLL.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\bll\\loginbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EDFC6F-BE6A-43A8-87F5-F5B8DE52CB9E}|BLL\\BLL.csproj|solutionrelative:bll\\loginbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OU\\HocKi2Nam 3\\LTHCSDL\\Test\\DAL\\DataAccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\adminaddorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\adminaddorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\gui\\adminproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197D8BCF-A9F0-422F-85DF-80FB13B46970}|GUI\\GUI.csproj|solutionrelative:gui\\adminproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\OrderRevenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DAL\\OrderItemDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\CustomerInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DAL\\CustomerInfoDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\Revenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "GUI\\MainForm.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\MainForm.cs [Design]",
+              "RelativeToolTip": "GUI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T09:20:38.719Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminProduct.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminProduct.cs",
+              "RelativeDocumentMoniker": "GUI\\AdminProduct.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminProduct.cs",
+              "RelativeToolTip": "GUI\\AdminProduct.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:52:35.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderScript.sql",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\OrderScript.sql",
+              "RelativeDocumentMoniker": "OrderScript.sql",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\OrderScript.sql",
+              "RelativeToolTip": "OrderScript.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-14T04:14:49.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DAL\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DAL\\DataAccess.cs",
+              "RelativeToolTip": "DAL\\DataAccess.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:14:17.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItemsDL.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DAL\\OrderItemsDL.cs",
+              "RelativeDocumentMoniker": "DAL\\OrderItemsDL.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DAL\\OrderItemsDL.cs",
+              "RelativeToolTip": "DAL\\OrderItemsDL.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwGoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:13:27.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddFeedback.cs [Design]",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AddFeedback.cs",
+              "RelativeDocumentMoniker": "GUI\\AddFeedback.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AddFeedback.cs [Design]",
+              "RelativeToolTip": "GUI\\AddFeedback.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:52:26.297Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminAddUsers.cs [Design]",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminAddUsers.cs",
+              "RelativeDocumentMoniker": "GUI\\AdminAddUsers.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminAddUsers.cs [Design]",
+              "RelativeToolTip": "GUI\\AdminAddUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:15:50.675Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductScript.sql",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\ProductScript.sql",
+              "RelativeDocumentMoniker": "ProductScript.sql",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\ProductScript.sql",
+              "RelativeToolTip": "ProductScript.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-14T04:15:45.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItems.sql",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\OrderItems.sql",
+              "RelativeDocumentMoniker": "OrderItems.sql",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\OrderItems.sql",
+              "RelativeToolTip": "OrderItems.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-14T04:14:51.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FeedbackBL.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\BLL\\FeedbackBL.cs",
+              "RelativeDocumentMoniker": "BLL\\FeedbackBL.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\BLL\\FeedbackBL.cs",
+              "RelativeToolTip": "BLL\\FeedbackBL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:47:10.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FeedbackDL.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DAL\\FeedbackDL.cs",
+              "RelativeDocumentMoniker": "DAL\\FeedbackDL.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DAL\\FeedbackDL.cs",
+              "RelativeToolTip": "DAL\\FeedbackDL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:42:16.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DTO\\Feedback.cs",
+              "RelativeDocumentMoniker": "DTO\\Feedback.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DTO\\Feedback.cs",
+              "RelativeToolTip": "DTO\\Feedback.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:07:57.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddFeedback.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AddFeedback.cs",
+              "RelativeDocumentMoniker": "GUI\\AddFeedback.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AddFeedback.cs",
+              "RelativeToolTip": "GUI\\AddFeedback.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:04:46.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddFeedback.Designer.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AddFeedback.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\AddFeedback.Designer.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AddFeedback.Designer.cs",
+              "RelativeToolTip": "GUI\\AddFeedback.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:16:32.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "GUI\\AdminDashboard.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "GUI\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:28:56.215Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BestSellingProduct.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DTO\\BestSellingProduct.cs",
+              "RelativeDocumentMoniker": "DTO\\BestSellingProduct.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DTO\\BestSellingProduct.cs",
+              "RelativeToolTip": "DTO\\BestSellingProduct.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:55:33.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DTO\\Product.cs",
+              "RelativeDocumentMoniker": "DTO\\Product.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DTO\\Product.cs",
+              "RelativeToolTip": "DTO\\Product.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T07:21:07.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminAddOrder.cs [Design]",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminAddOrder.cs",
+              "RelativeDocumentMoniker": "GUI\\AdminAddOrder.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminAddOrder.cs [Design]",
+              "RelativeToolTip": "GUI\\AdminAddOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:43:35.232Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminProduct.cs [Design]",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminProduct.cs",
+              "RelativeDocumentMoniker": "GUI\\AdminProduct.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminProduct.cs [Design]",
+              "RelativeToolTip": "GUI\\AdminProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:18:56.444Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "GUI\\Login.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\Login.cs [Design]",
+              "RelativeToolTip": "GUI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:27:27.775Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "GUI\\MainForm.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\MainForm.cs",
+              "RelativeToolTip": "GUI\\MainForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:03:03.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\App.config",
+              "RelativeDocumentMoniker": "GUI\\App.config",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\App.config",
+              "RelativeToolTip": "GUI\\App.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-05T14:30:23.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderBL.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\BLL\\OrderBL.cs",
+              "RelativeDocumentMoniker": "BLL\\OrderBL.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\BLL\\OrderBL.cs",
+              "RelativeToolTip": "BLL\\OrderBL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:27:36.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductBL.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\BLL\\ProductBL.cs",
+              "RelativeDocumentMoniker": "BLL\\ProductBL.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\BLL\\ProductBL.cs",
+              "RelativeToolTip": "BLL\\ProductBL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:28:14.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderDL.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DAL\\OrderDL.cs",
+              "RelativeDocumentMoniker": "DAL\\OrderDL.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DAL\\OrderDL.cs",
+              "RelativeToolTip": "DAL\\OrderDL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:27:34.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductDL.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DAL\\ProductDL.cs",
+              "RelativeDocumentMoniker": "DAL\\ProductDL.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DAL\\ProductDL.cs",
+              "RelativeToolTip": "DAL\\ProductDL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:27:04.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "GUI\\AdminDashboard.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminDashboard.cs",
+              "RelativeToolTip": "GUI\\AdminDashboard.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:21:19.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderRevenue.cs",
+              "DocumentMoniker": "D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\OrderRevenue.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\OrderRevenue.cs",
+              "ToolTip": "D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\OrderRevenue.cs",
+              "RelativeToolTip": "..\\..\\..\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\OrderRevenue.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:16:39.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CustomerInfoDL.cs",
+              "DocumentMoniker": "D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DAL\\CustomerInfoDL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DAL\\CustomerInfoDL.cs",
+              "ToolTip": "D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DAL\\CustomerInfoDL.cs",
+              "RelativeToolTip": "..\\..\\..\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DAL\\CustomerInfoDL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:51:03.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\OrderItem.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\OrderItem.cs",
+              "ToolTip": "D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\OrderItem.cs",
+              "RelativeToolTip": "..\\..\\..\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\OrderItem.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:19:06.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OrderItemDL.cs",
+              "DocumentMoniker": "D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DAL\\OrderItemDL.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DAL\\OrderItemDL.cs",
+              "ToolTip": "D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DAL\\OrderItemDL.cs",
+              "RelativeToolTip": "..\\..\\..\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DAL\\OrderItemDL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:17:11.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CustomerInfo.cs",
+              "DocumentMoniker": "D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\CustomerInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\CustomerInfo.cs",
+              "ToolTip": "D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\CustomerInfo.cs",
+              "RelativeToolTip": "..\\..\\..\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\CustomerInfo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:48:17.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Revenue.cs",
+              "DocumentMoniker": "D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\Revenue.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\Revenue.cs",
+              "ToolTip": "D:\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\Revenue.cs",
+              "RelativeToolTip": "..\\..\\..\\OU\\HocKi2Nam 3\\LTHCSDL\\LaptopAccessoriesRetailManagementSystem\\DTO\\Revenue.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T13:28:07.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\OU\\HocKi2Nam 3\\LTHCSDL\\Test\\DAL\\DataAccess.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OU\\HocKi2Nam 3\\LTHCSDL\\Test\\DAL\\DataAccess.cs",
+              "ToolTip": "D:\\OU\\HocKi2Nam 3\\LTHCSDL\\Test\\DAL\\DataAccess.cs",
+              "RelativeToolTip": "..\\..\\..\\OU\\HocKi2Nam 3\\LTHCSDL\\Test\\DAL\\DataAccess.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:19:41.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DTO\\Account.cs",
+              "RelativeDocumentMoniker": "DTO\\Account.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DTO\\Account.cs",
+              "RelativeToolTip": "DTO\\Account.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:12:46.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderItemsBL.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\BLL\\OrderItemsBL.cs",
+              "RelativeDocumentMoniker": "BLL\\OrderItemsBL.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\BLL\\OrderItemsBL.cs",
+              "RelativeToolTip": "BLL\\OrderItemsBL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:09:06.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderItems.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DTO\\OrderItems.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderItems.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DTO\\OrderItems.cs",
+              "RelativeToolTip": "DTO\\OrderItems.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:48:07.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserDL.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DAL\\UserDL.cs",
+              "RelativeDocumentMoniker": "DAL\\UserDL.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DAL\\UserDL.cs",
+              "RelativeToolTip": "DAL\\UserDL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:34:10.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserBL.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\BLL\\UserBL.cs",
+              "RelativeDocumentMoniker": "BLL\\UserBL.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\BLL\\UserBL.cs",
+              "RelativeToolTip": "BLL\\UserBL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:01:21.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryBL.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\BLL\\CategoryBL.cs",
+              "RelativeDocumentMoniker": "BLL\\CategoryBL.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\BLL\\CategoryBL.cs",
+              "RelativeToolTip": "BLL\\CategoryBL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:27:36.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginDL.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DAL\\LoginDL.cs",
+              "RelativeDocumentMoniker": "DAL\\LoginDL.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DAL\\LoginDL.cs",
+              "RelativeToolTip": "DAL\\LoginDL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:20:13.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DTO\\Order.cs",
+              "RelativeDocumentMoniker": "DTO\\Order.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DTO\\Order.cs",
+              "RelativeToolTip": "DTO\\Order.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:07:56.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DTO\\Category.cs",
+              "RelativeDocumentMoniker": "DTO\\Category.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\DTO\\Category.cs",
+              "RelativeToolTip": "DTO\\Category.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:07:55.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminAddUsers.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminAddUsers.cs",
+              "RelativeDocumentMoniker": "GUI\\AdminAddUsers.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminAddUsers.cs",
+              "RelativeToolTip": "GUI\\AdminAddUsers.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:02:08.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T05:33:07.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "GUI\\Login.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\Login.cs",
+              "RelativeToolTip": "GUI\\Login.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T05:36:23.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginBL.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\BLL\\LoginBL.cs",
+              "RelativeDocumentMoniker": "BLL\\LoginBL.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\BLL\\LoginBL.cs",
+              "RelativeToolTip": "BLL\\LoginBL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:22:44.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\MainForm.Designer.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\MainForm.Designer.cs",
+              "RelativeToolTip": "GUI\\MainForm.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:36:42.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AdminAddOrder.Designer.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminAddOrder.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\AdminAddOrder.Designer.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminAddOrder.Designer.cs",
+              "RelativeToolTip": "GUI\\AdminAddOrder.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:02:07.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AdminProduct.Designer.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminProduct.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\AdminProduct.Designer.cs",
+              "ToolTip": "D:\\LTCSDL\\MsiStore\\LaptopAccessoriesRetailManagementSystem\\GUI\\AdminProduct.Designer.cs",
+              "RelativeToolTip": "GUI\\AdminProduct.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:19:29.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
